@@ -1,0 +1,28 @@
+libro
+14
+12
+josue
+2000
+hacer un libro
+3
+logotipo
+1
+2
+diana
+5000
+hacer logitpo
+4
+realizar targetas depresentaciones
+12/10/2020
+12/11/2020
+tifa
+500
+hacertargetas
+4
+digitar
+28/7/2021
+29/7/2021
+tifa
+500
+hacer digitacion
+4
